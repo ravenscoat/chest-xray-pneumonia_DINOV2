@@ -1,0 +1,1 @@
+using a chest-xray-pneumonia dataset, classification of pneumonia and normal and comparing my performance with swin transformer in which i got an accuracy of 81 percent and in dinov2 a self supervised transformer i got an accuracy of 91
